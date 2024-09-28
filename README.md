@@ -12,17 +12,13 @@ Docker: Docker is required to run DVWA in a containerized environment.
 1. Clone the Repository
 Begin by cloning the repository to your local machine:
 
-bash
-
-git clone https://github.com/eystsen/pentestlab.git
+```git clone https://github.com/eystsen/pentestlab.git```
 
 2. Navigate to the Repository
 
 Change your directory to the cloned repository:
 
-bash
-
-cd pentestlab
+```cd pentestlab```
 
 3. Install Docker
 
