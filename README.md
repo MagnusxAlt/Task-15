@@ -1,4 +1,4 @@
-### DVWA Installation and SQL Injection Testing Guide ###
+## DVWA Installation and SQL Injection Testing Guide ##
 
 This repository contains the necessary files and instructions for setting up the Damn Vulnerable Web Application (DVWA) using Docker. The included PDF report provides detailed steps for installation, usage, and executing SQL injection tests across various security levels.
 
